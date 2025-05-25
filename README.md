@@ -25,7 +25,7 @@ Page interactive développée pour Floral Concept dans le cadre de leur concours
 
 1. Clonez le repository :
 ```bash
-git clone [votre-url-github]
+git clone https://github.com/saghro/test_technique.git
 ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur
